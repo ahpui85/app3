@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153129796",
+    "project_id": "xphysio-ffa0b",
+    "storage_bucket": "xphysio-ffa0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153129796:android:4020962bcd54490b943d11",
+        "android_client_info": {
+          "package_name": "com.example.physio_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153129796-bkksk4dqhi3l9hrpdv3lgtgbq3ck4k2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.physio_app2",
+            "certificate_hash": "b463765506fcf5c35fc62ce5c6fe88aee39d5cb8"
+          }
+        },
+        {
+          "client_id": "153129796-tsp03idv1l55r1kdadlgb2dvq8dntt07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQAqiVvSCn6Kpel64kiDei8Bj2Q4b9xvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153129796-tsp03idv1l55r1kdadlgb2dvq8dntt07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
